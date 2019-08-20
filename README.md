@@ -1,76 +1,46 @@
-# gatsby-starter-highlights
+# [Site Consultant Marketing](https://site-consultant-marketing.websitemarket.ro/)
 
-Gatsby.js V2 starter template based on Highlights by HTML5 UP
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+<br />
 
-![Screenshot](./src/assets/img/highlights.jpg)
+![Site Consultant Marketing - Gif nimated Intro.](https://raw.githubusercontent.com/creare-site/static/master/produse/site-consultant-marketing-intro.gif)
 
-Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-highlights/)
+<br />
 
-## Screenshot
+## Informatii produs
 
-![Screenshot](./src/assets/img/demo.png)
+- Site de prezentare - Site Consultant Marketing
+- Live [DEMO](https://site-consultant-marketing.websitemarket.ro)
+ 
+<br />
 
-## Install
+## Licenta
 
-Make sure that you have the Gatsby CLI program installed:
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
-```sh
-npm install --global gatsby-cli
-```
+<br />
 
-And run from your CLI:
+## Utilizare (pentru dezvoltatori)
 
-```sh
-gatsby new <site-name> https://github.com/anubhavsrivastava/gatsby-starter-highlights
-```
-
-Then you can run it by:
-
-```sh
-cd gatsby-example-site
-npm install
-gatsby develop
-```
-
-### Personalization
-
-Edit `config.js` to put up your details
-
-```javascript
-module.exports = {
-  siteTitle: 'Gatsby Starter highlights', // <title>
-  ...
-  heading: 'Anubhav',
-  subHeading: 'Web Developer',
-  // social
-  socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    }
-    ...
-  ],
-};
+Acesta website este o aplicatie JAMstack, dezvoltata in [React](https://reactjs.org/) / [GatsbyJS](https://www.gatsbyjs.org/)
 
 ```
+$ git clone https://github.com/creare-site/site-consultant-marketing.git
+$ cd site-consultant-marketing
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
-### Deploying using Github page
+<br />
 
-`package.json` has a default script that uses `gh-pages` module to publish on Github pages. Simply running `npm run deploy` would publish the site on github pages.
+## Suport
 
-Additionally, it also has [path-prefix](https://www.gatsbyjs.org/docs/path-prefix/) value set for gatsby config in `config.js`. Change `pathPrefix` to relevant path if your gatsby site is hosted on subpath of a domain, `https://theanubhav.com/somePath/`. If you are hosting it as root site, i.e, `https://theanubhav.com/` , remove the pathPrefix configuration.
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
-### Contribution
+<br />
 
-Suggestions and PRs are welcome!
-
-Please create issue or open PR request for contribution.
-
-### License
-
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
-
-refer `LICENSE` file in this repository.
+---
+[Site Consultant Marketing](https://site-consultant-marketing.websitemarket.ro/) un produs **WebsiteMarket**
