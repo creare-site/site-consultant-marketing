@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Creare Site - Portofoliu | WebsiteMarket', // <title>
+  siteTitle: 'Consultant Marketing - Site Prezentare | WebsiteMarket', // <title>
   manifestName: 'Highlights',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/creare-site/site-portofoliu',
+      url: 'https://github.com/creare-site/site-consultant-marketing',
     },
     {
       icon: 'fa-twitter',
