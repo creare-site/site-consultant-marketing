@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
-    siteUrl: `https://site-portofoliu.websitemarket.ro`
+    siteUrl: `https://site-consultant-marketing.websitemarket.ro/`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
