@@ -20,7 +20,7 @@ const IndexPage = () => (
     <section id="one" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[0].bg} alt="" />
+          <img src={sections[0].bg} alt="Consultant Marketing - Imagine sectiune Cine sunt" />
         </span>
         <div className="content">
           <header className="major">
@@ -42,7 +42,7 @@ const IndexPage = () => (
     <section id="two" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[1].bg} alt="" />
+          <img src={sections[1].bg} alt="Consultant Marketing - Imagine sectiune Portofoliu." />
         </span>
         <div className="content">
           <header className="major">
@@ -84,7 +84,7 @@ const IndexPage = () => (
     <section id="three" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[2].bg} alt="" />
+          <img src={sections[2].bg} alt="Consultant Marketing - Imagine sectiune Scop." />
         </span>
         <div className="content">
           <header className="major">
